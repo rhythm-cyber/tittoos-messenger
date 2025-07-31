@@ -1,0 +1,8 @@
+{
+  "name": "Tittoos! Messenger",
+  "description": "A real-time chat application inspired by classic Yahoo Messenger, featuring a nostalgic design and vibrant UI for 1-to-1 and group chats.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
